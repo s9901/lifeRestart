@@ -148,22 +148,22 @@
     "1018": {
         "id": "1018",
         "name": "人类进化",
-        "description": "所有属性+1",
+        "description": "所有属性+99999",
         "grade": 2,
         "effect": {
-            "SPR": 1,
-            "MNY": 1,
-            "CHR": 1,
-            "STR": 1,
-            "INT": 1
+            "SPR": 99999,
+            "MNY": 99999,
+            "CHR": 99999,
+            "STR": 99999,
+            "INT": 99999
         }
     },
     "1019": {
         "id": "1019",
         "name": "超凡",
-        "description": "初始可用属性点+4",
+        "description": "初始可用属性点+20",
         "grade": 2,
-        "status": 4
+        "status": 20
     },
     "1020": {
         "id": "1020",
@@ -193,14 +193,14 @@
     "1023": {
         "id": "1023",
         "name": "半神",
-        "description": "所有属性+2",
+        "description": "所有属性+99999",
         "grade": 3,
         "effect": {
-            "SPR": 2,
-            "MNY": 2,
-            "CHR": 2,
-            "STR": 2,
-            "INT": 2
+            "SPR": 99999,
+            "MNY": 99999,
+            "CHR": 99999,
+            "STR": 99999,
+            "INT": 99999
         }
     },
     "1024": {
@@ -549,15 +549,15 @@
     "1064": {
         "id": "1064",
         "name": "天命",
-        "description": "初始可用属性点+8",
+        "description": "初始可用属性点+20",
         "grade": 3,
-        "status": 8
+        "status": 20
     },
     "1065": {
         "id": "1065",
         "name": "祖传药丸",
         "description": "功能不明",
-        "grade": 1
+        "grade": 2
     },
     "1066": {
         "id": "1066",
