@@ -1,4 +1,4 @@
 # lifeRestart 爆改修仙版
-Game Life [Restart](https://remake.solaking.com/)
+Game Life [Restart](http://remake.solaking.com/)
 
 Edit by s9901
