@@ -1,4 +1,4 @@
 # lifeRestart
 Game Life Restart
 
-Crack by s9901
+Edit by s9901
